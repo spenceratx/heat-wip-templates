@@ -52,7 +52,7 @@
     },
     {
       "id": 11,
-      "name":"All-in-one Rackspace Private Cloud",
+      "name":"All-in-one Rackspace Private Cloud (WIP)",
       "url":"https://raw.github.com/rackerlabs/heat-prod-templates/master/example/rs-private-cloud.template"
     }
   ]
