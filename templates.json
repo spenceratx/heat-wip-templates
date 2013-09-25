@@ -55,5 +55,10 @@
       "name":"All-in-one Rackspace Private Cloud (WIP)",
       "url":"https://raw.github.com/rackerlabs/heat-prod-templates/master/example/rs-private-cloud.template"
     }
+    {
+      "id": 12,
+      "name":"MongoDB (WIP)",
+      "url":"https://raw.github.com/rackerlabs/heat-wip-templates/master/example/mongodb.template"
+    }
   ]
 }
